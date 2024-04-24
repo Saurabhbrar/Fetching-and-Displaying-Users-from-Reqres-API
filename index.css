@@ -1,0 +1,41 @@
+#data{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 50%;
+    margin: auto;
+    border-radius: 30px;
+}
+#mybuttons{
+    width: 50%;
+    height: 50px;
+    
+    margin: auto;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#mybuttons>button{
+    width: 150px;
+    height: 50px;
+    background-color: #d5e0ff;
+    font-size: 25px;
+    border-radius: 10px;
+    border: 1px solid blue;
+
+}
+body{
+    background-color: #d5e0ff;
+    
+}
+h1{
+    color: #2f1c6b;
+    font-size: 25px;
+}
+p{
+    color: #5125d2;
+}
+img{
+    width: 75%;
+    border-radius: 20px;
+}
